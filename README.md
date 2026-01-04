@@ -1,2 +1,2 @@
-# Climate_Dashboard
+# Weather_Dashboard
 This climate Dashboard is helpful to know the different cities weather at the current time...
